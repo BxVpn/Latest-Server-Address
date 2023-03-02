@@ -10,3 +10,6 @@
 | 安卓版本  |https://raw.githubusercontent.com/BxVpn/bxvpnapp/main/bxvpn_v2.7.0_60.apk |
 | iOS版本  | https://apps.apple.com/my/app/bxvpn/id1542308257 |
 
+
+
+<td align="left"><a href="https://raw.githubusercontent.com/BxVpn/bxvpnapp/main/bxvpn_v2.7.0_60.apk" rel="nofollow">安卓版本</a></td>
