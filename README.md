@@ -14,4 +14,4 @@
 | iOS版本   | (https://apps.apple.com/my/app/bxvpn/id1542308257) |
 | ------------- | ------------- |
 | Window版本  | (https://www.bqqb1.xyz/download.html) |
-| ------------- | ------------- |
+
