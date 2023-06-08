@@ -11,4 +11,4 @@
 | ------------- | 
 | <a href="https://raw.githubusercontent.com/BxVpn/bxvpnapp/main/bxvpn_v2.7.12_75_appen.apk" rel="nofollow">安卓版本</a>  | 
 | <a href="https://apps.apple.com/my/app/bxvpn/id1542308257" rel="nofollow">iOS版本</a> |
-|<a href="https://raw.githubusercontent.com/BxVpn/bxvpnapp/main/baoxuevpn-setup-1.5.1-x64.exe" rel="nofollow">Windows版本</a> |
+|<a href="https://raw.githubusercontent.com/BxVpn/bxvpnapp/main/baoxuevpn-setup-1.5.1.1-x64.exe" rel="nofollow">Windows版本</a> |
