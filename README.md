@@ -1,5 +1,5 @@
 # 最新消息
-《暴雪VPN最新官方网站 www.byyb1.xyz》 
+《 暴雪VPN最新官方网站 www.byyb1.xyz 》 
 暴雪VPN
 目前我司最新版本已经内置ChatGPT直连功能，无需链接VPN即可使用，欢迎尝试。
 
